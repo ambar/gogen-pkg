@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`template creates with defaults 1`] = `
+Array [
+  ".gitignore",
+  ".prettierrc.js",
+  "LICENSE",
+  "README.md",
+  "index.js",
+  "package.json",
+  "test.js",
+]
+`;
+
+exports[`template creates with defaults 2`] = `
+Object {
+  "description": "My awesome project",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "dist",
+  "scripts": Object {},
+  "version": "0.0.0",
+}
+`;
